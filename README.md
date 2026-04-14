@@ -63,3 +63,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 *For detailed technical documentation and FAQ, visit [translate-input.com](https://translate-input.com)*
+
+## Related Projects
+- [Immersive Translate Patch](https://github.com/mojinmopin-art/immersive-translate-en-zh-patch) - Bilingual translation extension fix
+- [Youdao Translate Patch](https://github.com/mojinmopin-art/youdao-translate-patch) - Youdao dictionary compatibility fix
+- [OpenClaw AI](https://github.com/mojinmopin-art/openclaw-ai-assistant) - AI-powered browser assistant
